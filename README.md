@@ -7,6 +7,17 @@ Game Hub has two parts:
 - **Game Shortcut Sync** (`GameShortcutSync.ps1`) finds your games and puts a shortcut for each one in the Start Menu, so they all show up in Windows search. It runs at logon and every hour.
 - **Game Hub** (`Hub\`) is a desktop launcher that shows the whole library in one place.
 
+![Game Hub library](docs/screenshots/library.jpg)
+
+| | |
+| --- | --- |
+| ![Game details](docs/screenshots/details.jpg) | ![Console mode](docs/screenshots/home.jpg) |
+| Game details with reviews, HowLongToBeat times and media | Full-screen console mode for controllers |
+| ![Storage](docs/screenshots/storage.jpg) | ![Free games](docs/screenshots/free.jpg) |
+| Real on-disk sizes by drive and launcher | Free game alerts from Epic, Steam and itch.io |
+
+[Download the latest release](https://github.com/AbyssalKaz/GameHub/releases/latest)
+
 ## Supported sources
 
 Steam, Epic Games, GOG, Xbox / Microsoft Store, EA, Ubisoft, Riot, Rockstar, HoYoPlay, Battle.net, Amazon Games, itch.io, Hydra, emulators (one entry per ROM), and any folder you point it at.
