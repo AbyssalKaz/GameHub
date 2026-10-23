@@ -1,0 +1,9 @@
+config.json
+config.json.bak
+managed.json
+library.json
+last-run.log
+
+Hub/bin/
+Hub/cache/
+Hub/lib/

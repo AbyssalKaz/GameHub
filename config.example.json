@@ -1,0 +1,10 @@
+{
+  "ShortcutFolderName": "Games",
+  "LibraryFolders": [],
+  "SearchFolders": [
+    "%USERPROFILE%\\Downloads"
+  ],
+  "ExtraGames": [],
+  "IgnoreNames": [],
+  "SkipGamesAlreadyInStartMenu": true
+}
